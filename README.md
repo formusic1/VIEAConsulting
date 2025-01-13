@@ -39,7 +39,7 @@ body {
 <div field="text" class="t-text t-text_md " style="text-align: center;"></div>
 <div field="text" class="t-text t-text_md " style="text-align: center;"></div>
 <div field="text" class="t-text t-text_md " style="text-align: center;">
-  <p><img src="images/Viea logo no back.svg" alt="" width="600"></p>
+  <p><img src="file:///D|/Porosenok/NEW WORK/VIEA/Site/grafics/Viea logo no back.svg" alt="" width="600"></p>
   <p><span style="font-family: Arial; font-size: 22px;">Our website is currently under construction.<br>
     <br>
     <strong>Feel free to contact us.</strong><br>
