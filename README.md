@@ -1,17 +1,3 @@
-<style type="text/css">
-body,td,th {
-	font-family: Arial;
-	font-size: 22px;
-	color: #1F1F1F;
-}
-body {
-	background-color: #EDEDED;
-	margin-left: 10px;
-	margin-top: 50px;
-	margin-right: 10px;
-	margin-bottom: 500px;
-}
-</style>
 <div id="rec477777568" class="r t-rec t-rec_pt_90 t-rec_pb_0" data-record-type="106" data-bg-color="#ededed" data-animationappear="off">
 <div class="t004">
 <div class="t-container t-align_center">
